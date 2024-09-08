@@ -11,7 +11,7 @@ permalink: LINKS/
 * [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg){:target="_blank"} ---
   Some easy-to-use commands you can use to inspect hardware.
   These commands will help you list PCI devices, view information about your CPU, and more.
-* [Tutorial C for beginers]((https://youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe&si=6bsDws3j13rabdY_){:target="_blank"} ---
+* [Tutorial C for beginers](https://youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe&si=6bsDws3j13rabdY_){:target="_blank"} ---
   Playlist for beginers who want to learn C
 * [Tutrial Virtual Box for beginers](https://youtu.be/nvdnQX9UkMY?si=a-hFw5_dCcMcnrEd){:target="_blank"} ---
   A Video Tutorial about Virtual Box for beginers
