@@ -17,6 +17,7 @@ permalink: LINKS/
   A Video Tutorial about Virtual Box for beginers
 * [60 Linux Commands you NEED to know (in 10 minutes)](https://youtu.be/gd7BXuUQ91w?si=qXM1k0oLObkuMgRL){:target="_blank"} ---
   Some Linux general commands. It has some essential Linux commands for beginners.
+* [How to get your Pub Key](https://youtu.be/0lCp0A1IrsE?si=E-IDsT5b-maoFNm8){:target="_blank"} --- A simple tutorial video on Youtube on how to get your Pub Key
 <br>
 <br>
 #### REV: Sun 08 Sep 2024 15:00
