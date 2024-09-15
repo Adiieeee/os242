@@ -1,36 +1,36 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
-ZCZC W00 60 L00 General, etc.
-ZCZC W00 20 L01 SCELE/Discord related
-ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
-ZCZC W00 10 L03 GitHub related
-ZCZC W00 10 L04 GitHub Pages related
-ZCZC W00 120 L05 QUIZ including studying
-ZCZC W00 40 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W00 60 L09 Weekly Assignmentsoalahbekl
-ZCZC W00 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
-ZCZC W00 00 L09 Assignment in General
-ZCZC W00 150 L10 Assignment #00
-ZCZC W00 10 L11 Assignment #01
-ZCZC W00 20 L12 Assignment #02
-ZCZC W00 10 L13 Assignment #03
-ZCZC W00 20 L14 Assignment #04
-ZCZC W00 30 L15 Assignment #05
-ZCZC W00 60 L16 Assignment #06
-ZCZC W00 60 L21 Trying something
-ZCZC W00 60 L32 YouTube: watching OS related topics, etc.
-ZCZC W00 60 L40 TXT/ related in general.
-ZCZC W00 60 L41 TXT/mylog.txt related.
-ZCZC W00 30 L64 Helping a friend (OS related problem)
-ZCZC W00 240 L70 Studying for other courses.
-ZCZC W00 450 L71 Working (General)
-ZCZC W00 120 L73 Gaming including Board Games.
-ZCZC W00 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
-ZCZC W00 600 L84 Relax, Rest, Nap, and Sleep
-ZCZC W00 90 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
-ZCZC W00 60 L87 Breakfast/Lunch/Dinner/Snake
-ZCZC W00 40 L88 Workout/Sport/Exercise/ETC.
+ZCZC W02 60 L00 General, etc.
+ZCZC W02 20 L01 SCELE/Discord related
+ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 100 L03 GitHub related
+ZCZC W02 60 L04 GitHub Pages related
+ZCZC W02 120 L05 QUIZ including studying
+ZCZC W02 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 300 L09 Weekly Assignmentsoalahbekl
+ZCZC W02 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W02 60 L10 Assignment #00
+ZCZC W02 60 L11 Assignment #01
+ZCZC W02 60 L12 Assignment #02
+ZCZC W02 60 L13 Assignment #03
+ZCZC W02 60 L14 Assignment #04
+ZCZC W02 60 L15 Assignment #05
+ZCZC W02 60 L16 Assignment #06
+ZCZC W02 60 L17 Assignment #07
+ZCZC W02 60 L21 Trying something
+ZCZC W02 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 50 L40 TXT/ related in general.
+ZCZC W02 30 L41 TXT/mylog.txt related.
+ZCZC W02 15 L64 Helping a friend (OS related problem)
+ZCZC W02 240 L70 Studying for other courses.
+ZCZC W02 450 L71 Working (General)
+ZCZC W02 120 L73 Gaming including Board Games.
+ZCZC W02 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W02 600 L84 Relax, Rest, Nap, and Sleep
+ZCZC W02 60 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W02 60 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W02 40 L88 Workout/Sport/Exercise/ETC.
 ZCZC W01 90 L00 General, etc.
 ZCZC W01 60 L01 SCELE/Discord related
 ZCZC W01 240 L02 CLASSROOM/ZOOM meetings related
@@ -67,3 +67,33 @@ ZCZC W01 60 L86 House chore, including helping mom, pap, uncle, aunty, jaga waru
 ZCZC W01 60 L87 Breakfast/Lunch/Dinner/Snake
 ZCZC W01 30 L88 Workout/Sport/Exercise/ETC.
 ZCZC W01 600 L98 Else that is not related with this Operating Systems class.
+ZCZC W00 60 L00 General, etc.
+ZCZC W00 20 L01 SCELE/Discord related
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 120 L05 QUIZ including studying
+ZCZC W00 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00 60 L09 Weekly Assignmentsoalahbekl
+ZCZC W00 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W00 00 L09 Assignment in General
+ZCZC W00 150 L10 Assignment #00
+ZCZC W00 10 L11 Assignment #01
+ZCZC W00 20 L12 Assignment #02
+ZCZC W00 10 L13 Assignment #03
+ZCZC W00 20 L14 Assignment #04
+ZCZC W00 30 L15 Assignment #05
+ZCZC W00 60 L16 Assignment #06
+ZCZC W00 60 L21 Trying something
+ZCZC W00 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W00 60 L40 TXT/ related in general.
+ZCZC W00 60 L41 TXT/mylog.txt related.
+ZCZC W00 30 L64 Helping a friend (OS related problem)
+ZCZC W00 240 L70 Studying for other courses.
+ZCZC W00 450 L71 Working (General)
+ZCZC W00 120 L73 Gaming including Board Games.
+ZCZC W00 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W00 600 L84 Relax, Rest, Nap, and Sleep
+ZCZC W00 90 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W00 60 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W00 40 L88 Workout/Sport/Exercise/ETC.
