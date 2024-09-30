@@ -18,6 +18,7 @@ permalink: LINKS/
 * [60 Linux Commands you NEED to know (in 10 minutes)](https://youtu.be/gd7BXuUQ91w?si=qXM1k0oLObkuMgRL){:target="_blank"} ---
   Some Linux general commands. It has some essential Linux commands for beginners.
 * [How to get your Pub Key](https://youtu.be/0lCp0A1IrsE?si=E-IDsT5b-maoFNm8){:target="_blank"} --- A simple tutorial video on Youtube on how to get your Pub Key
+* [How to backup and restore Virtualbox Machines](https://www.youtube.com/watch?v=HkGJr5BJg5g){:target="_blank"} --- A simple tutorial on how to backup and restore Oracle VM VirtualBox Manager.
 <br>
 <br>
 #### REV: Sun 08 Sep 2024 15:00
