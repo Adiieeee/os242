@@ -21,6 +21,7 @@ permalink: LINKS/
 * [How to backup and restore Virtualbox Machines](https://www.youtube.com/watch?v=HkGJr5BJg5g){:target="_blank"} --- A simple tutorial on how to backup and restore Oracle VM VirtualBox Manager.
 * [How to change Memory in Oracle virtalMachine](https://youtu.be/viT8mwSiC4k?si=Pcrt22GzaUqbeSdT){:target="_black"} --- A tutorial about how to change RAM Allocated to a Virtual Machine in VirtualBox.
 * [100+ Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo?si=5vq4Zdo_x62O3ybl){:target="_blank"} --- This video is very helpfull for us to know Linux deeper.
+* [BASH Scripting!!](https://youtu.be/SPwyp2NG-bE?si=HI8TxJ3nNa_yWWuY){:target="_blank"} --- Know the basic and important of BASH Scripting
 <br>
 <br>
 #### REV: Sun 08 Sep 2024 15:00
