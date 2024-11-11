@@ -22,6 +22,7 @@ permalink: LINKS/
 * [How to change Memory in Oracle virtalMachine](https://youtu.be/viT8mwSiC4k?si=Pcrt22GzaUqbeSdT){:target="_black"} --- A tutorial about how to change RAM Allocated to a Virtual Machine in VirtualBox.
 * [100+ Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo?si=5vq4Zdo_x62O3ybl){:target="_blank"} --- This video is very helpfull for us to know Linux deeper.
 * [BASH Scripting!!](https://youtu.be/SPwyp2NG-bE?si=HI8TxJ3nNa_yWWuY){:target="_blank"} --- Know the basic and important of BASH Scripting
+* [Improve your VirtualBox performance](https://youtu.be/2os9vhZNS0s?si=cf2UYar1vhg9p6AV){:target="_blank"} --- How to improve VirtualBox performance/speed
 <br>
 <br>
 #### REV: Sun 08 Sep 2024 15:00
